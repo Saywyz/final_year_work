@@ -1,0 +1,11 @@
+Rapport de Classification (Jeu de Test Réel Non-Équilibré)
+
+                precision    recall  f1-score   support
+
+ Fluide (0-25)       0.99      0.96      0.97      5076
+Saturé (25-50)       0.41      0.57      0.48       216
+  Bloqué (>50)       0.44      0.92      0.59        72
+
+      accuracy                           0.94      5364
+     macro avg       0.61      0.82      0.68      5364
+  weighted avg       0.96      0.94      0.95      5364

@@ -1,0 +1,14 @@
+--- Métriques de Classification pour 'k' en Bins - Test Set ---
+  Accuracy: 0.1687
+
+  Rapport de Classification:
+                    precision    recall  f1-score   support
+
+     Fluide (0-15)       0.00      0.00      0.00       229
+Pré-saturé (15-30)       0.00      0.00      0.00       195
+    Saturé (30-50)       0.00      0.00      0.00       197
+      Bloqué (>50)       0.17      1.00      0.29       126
+
+          accuracy                           0.17       747
+         macro avg       0.04      0.25      0.07       747
+      weighted avg       0.03      0.17      0.05       747

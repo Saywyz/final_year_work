@@ -1,0 +1,18 @@
+--- Métriques Continues sur 'k' (Échelle Originale) - Test Set ---
+  MAE: 14.8927
+  RMSE: 17.9890
+
+--- Métriques de Classification pour 'k' en Bins - Test Set ---
+  Accuracy: 0.3092
+
+  Rapport de Classification:
+                    precision    recall  f1-score   support
+
+     Fluide (0-15)       0.00      0.00      0.00       229
+Pré-saturé (15-30)       0.30      0.75      0.43       211
+    Saturé (30-50)       0.33      0.41      0.37       179
+      Bloqué (>50)       0.00      0.00      0.00       128
+
+          accuracy                           0.31       747
+         macro avg       0.16      0.29      0.20       747
+      weighted avg       0.16      0.31      0.21       747

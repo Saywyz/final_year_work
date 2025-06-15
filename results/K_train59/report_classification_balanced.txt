@@ -1,0 +1,10 @@
+Rapport de Classification (Jeu de Test Équilibré pour Diagnostic)\n\n                   precision    recall  f1-score   support
+
+    Fluide (0-15)       0.82      0.94      0.88        72
+Présaturé (15-30)       0.66      0.61      0.63        72
+   Saturé (30-50)       0.51      0.62      0.56        72
+     Bloqué (>50)       0.92      0.62      0.74        72
+
+         accuracy                           0.70       288
+        macro avg       0.72      0.70      0.70       288
+     weighted avg       0.72      0.70      0.70       288
